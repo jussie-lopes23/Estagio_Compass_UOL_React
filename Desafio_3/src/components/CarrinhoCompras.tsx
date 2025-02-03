@@ -19,7 +19,7 @@ const navigate = useNavigate();
           alt="Voltar"
         />
           <h2 className="text-lg font-semibold">Shopping Cart</h2>
-        <button className="text-red-500 text-xl">🗑</button>
+        <button className="text-xl"><img src="lixeira.png" alt="limpar carrinho" /></button>
       </div>
     </div>
   )
